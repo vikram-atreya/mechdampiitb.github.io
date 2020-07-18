@@ -4,6 +4,6 @@ title: Course Reviews
 permalink: /course_reviews
 ---
 
-# Core Courses
+<h4>Questions or bug reports?</h4>
 
-<a class="nav-link" href="{{site.baseurl}}/me201.html">ME201:Solid Mechanics</a>
+<a href="{{site.baseurl}}/me201.html">ME201:Solid Mechanics</a>
