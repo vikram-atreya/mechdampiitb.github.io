@@ -1,5 +1,5 @@
 ---
-layout: course_reviews
+layout: page
 title: Course Reviews
 permalink: /course_reviews
 comments: true
