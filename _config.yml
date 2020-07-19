@@ -43,11 +43,9 @@ plugins:
 jekyll-archives:
   enabled:
     - categories
-    - course_reviews
   layout: archive
   permalinks:
     category: '/category/:name/'
-    course : '/course/:name/'
     
 # Pagination 
 paginate: 6
