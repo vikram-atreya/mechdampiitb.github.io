@@ -47,7 +47,7 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-    course : '/course_reviews/:name/'
+    course : '/course/:name/'
     
 # Pagination 
 paginate: 6
