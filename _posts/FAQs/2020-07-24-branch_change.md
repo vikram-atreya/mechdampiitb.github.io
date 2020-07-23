@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "The Branch Change Dilemma"
-author: Gagan
 categories: [FAQS, First Year]
 tags: [faqs]
 image: assets/images/bc.jpeg
