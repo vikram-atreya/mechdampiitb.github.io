@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CE102 - Engineering Mechanics"
-categories: [ Core, First Year]
+categories: [core courses, First Year]
 tags: [courses]
 image: assets/images/12.jpg
 featured: false

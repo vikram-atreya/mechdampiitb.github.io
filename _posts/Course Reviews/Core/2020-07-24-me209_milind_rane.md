@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ME209 - Thermodynamics"
-categories: [Core, Second Year]
+categories: [core courses, Second Year]
 tags: [courses]
 image: assets/images/12.jpg
 featured: false
