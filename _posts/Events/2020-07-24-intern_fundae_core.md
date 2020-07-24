@@ -14,7 +14,7 @@ The speakers for the session were:
 * Raj Lakhani - Lear Corporation
 * Ujjwal Agarwal -  Daikin Industries Ltd.
 
-###RAJ LAKHANI: Lear Corporation
+### RAJ LAKHANI: Lear Corporation
 **Preparation:**
 * Core Companies expect you to get involved in some technical or core projects
 * Be thorough with resume, including the numbers/data mentioned in it
