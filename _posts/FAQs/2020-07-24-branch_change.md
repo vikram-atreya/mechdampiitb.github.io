@@ -5,7 +5,7 @@ categories: [FAQS, First Year]
 tags: [faqs]
 image: assets/images/bc.jpeg
 featured: true
-hidden: true
+hidden: false
 ---
 
 ## Why Mech? Is Mech the right fit for you?

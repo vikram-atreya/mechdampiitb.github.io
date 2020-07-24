@@ -5,7 +5,7 @@ categories: [core courses, First Year]
 tags: [courses]
 image: assets/images/12.jpg
 featured: false
-hidden: true
+hidden: false
 ---
 
 #### Instructor
