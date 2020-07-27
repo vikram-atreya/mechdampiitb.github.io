@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Debanjali Chatterjee"
+title:  "Purdue Research Intern"
 categories: [Core, Intern]
 tags: [experiences]
 image: assets/images/12.jpg
