@@ -3,7 +3,7 @@ layout: post
 title:  "Intern Fundae - Core"
 categories: [sessions, Second Year, Third Year]
 tags: [events]
-image: assets/images/12.jpg
+image: assets/images/Events/intern.jpg
 featured: true
 hidden: false
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "ME206 - Manufacturing Processes I"
 categories: [core courses, Second Year]
 tags: [courses]
-image: assets/images/12.jpg
+image: assets/images/Course Reviews/Core/me206.png
 featured: false
 hidden: false
 ---

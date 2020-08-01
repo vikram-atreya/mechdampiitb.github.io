@@ -3,7 +3,7 @@ layout: post
 title:  "Where are they now?"
 categories: [sessions, First Year, Second Year, Third Year]
 tags: [events]
-image: assets/images/12.jpg
+image: assets/images/Events/wherearetheynow.jpg
 featured: true
 hidden: false
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "IE502: Probabilistic Models"
 categories: [dept electives]
 tags: [courses]
-image: assets/images/12.jpg
+image: assets/images/Course Reviews/Dept/IE502.jpg
 featured: false
 hidden: false
 ---

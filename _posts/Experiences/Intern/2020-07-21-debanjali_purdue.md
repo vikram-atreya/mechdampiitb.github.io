@@ -3,7 +3,7 @@ layout: post
 title:  "Purdue Research Intern"
 categories: [Core, Intern]
 tags: [experiences]
-image: assets/images/12.jpg
+image: assets/images/Interns/purdue_debanjali.jpg
 featured: true
 hidden: false
 ---

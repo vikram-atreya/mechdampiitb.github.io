@@ -3,7 +3,7 @@ layout: post
 title:  "Dual Degree Conversion Session"
 categories: [sessions, Second Year, Third Year]
 tags: [events]
-image: assets/images/12.jpg
+image: assets/images/Events/ddsesion.jpg
 featured: true
 hidden: false
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "Elec Minor?"
 categories: [minors]
 tags: [courses]
-image: assets/images/12.jpg
+image: assets/images/Course Reviews/Minors/elec.png
 featured: true
 hidden: false
 ---
