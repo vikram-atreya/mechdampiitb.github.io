@@ -3,7 +3,7 @@ layout: post
 title:  "EE101 - Introduction to Electrical and Electronic Circuits"
 categories: [core courses, Second Year]
 tags: [courses]
-image: assets/images/ee101.jpg
+image: assets/images/Course Reviews/Core/ee101.png
 featured: false
 hidden: false
 ---
