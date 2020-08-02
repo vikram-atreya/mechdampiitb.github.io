@@ -4,7 +4,7 @@ title:  "Elec Minor?"
 categories: [minors]
 tags: [courses]
 image: assets/images/Course Reviews/Minors/elec.png
-featured: true
+featured: false
 hidden: false
 ---
 

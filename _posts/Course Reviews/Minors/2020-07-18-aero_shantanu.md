@@ -4,7 +4,7 @@ title:  "Aero Minor?"
 categories: [minors]
 tags: [courses]
 image: assets/images/Course Reviews/Minors/aero.png
-featured: true
+featured: false
 hidden: false
 ---
 

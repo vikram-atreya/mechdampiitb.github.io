@@ -4,7 +4,7 @@ title:  "Management Minor?"
 categories: [minors]
 tags: [courses]
 image: assets/images/Course Reviews/Minors/mg.jpg
-featured: true
+featured: false
 hidden: false
 ---
 
@@ -24,6 +24,51 @@ Coming to the classroom atmosphere, most of the professors are really enthusiast
 
 ## Caution!!
 But one should be carried away if things are too hunky-dory. Here’s a catch! Unlike most of the other minor courses, management minor courses can’t be later re-tagged as a department or an institute elective. So in case somebody is unable to finish the minor, (s)he might not be able to capitalize upon any good grades achieved in any of the courses. Also, usually the enrollment cap is kept very tight so the CPI cutoff is quite high (you’re safe with 8.5+) and waitlists almost have zero hope. At times, the course content seems too trivial but getting good grades becomes a tough task due to a fairly comprehensive evaluation methodology (predominantly application-based and less rote learning)  adopted by instructors. Based on the reviews of my batchmates, I would suggest anybody who isn’t serious about this minor to at least go for a course on Accounting and Finance . For people who are really serious about this minor, starting with Marketing Management can be a really good idea owing to really amazing professors and relatable course content. One final word of advice for people taking up this minor. There might be times when you may be tempted to think along the lines that most of the things being taught are fairly straight forward and it’s not a big deal. Just hold on for sometime and remind yourself that once you land up in a job or in a corporate setup, these seemingly basic things will prove to be a big deal.
+
+*Review by:* Anumay Ashish
+
+## Minors In Management
+
+The minors in management courses are run by the Shailesh J. Mehta School of Management for the BTech students. It has a set of 6 courses offered for the BTech students, and you can take up any 5 to complete and secure a minors degree. Also, each course has its own project part, which kind of gives you the opportunity to apply whatever you have learned in theory. 
+
+## Benefits:
+There are loads of benefit of taking up these courses:
+The minor courses are a great way to introduce yourself to this field of study, especially for all those students who consider management as their further course of study or eye at non core jobs
+The subject is different from the core engineering stuff that we learn at IITB, thus gives you a different experience and also stands out in your resume.
+Also, some of the courses have close links to IEOR, & having completed these minor courses beforehand helps you have an edge in those core courses or department electives that you take later in the final years.
+
+## Disadvantages:
+The biggest one that comes into my mind is that the course cannot be tagged as an institute elective, and so if you do not complete the 5 courses, you cannot use them for your required IE credits. 
+
+## Coming over to the courses:
+
+#### Accounting and Finance - MG403
+Introduces you to the basics of accounting and methods that will help you understand what is going on in the financial markets.
+The first part deals with the different accounting techniques, basically class 11th accounting for the commerce students.
+The second part deals with all kinds of financial ratios, evaluation, and rating techniques.
+A third and optional part is done based on the availability of time and majorly deals with the ideas behind the implementation of different financial management techniques.
+
+Trust me, the course will help you in a number of ways., the greatest of which will be an increase in your ability to read and understand financial news or economic times! Also, the basics of financial evaluation tools taught in the course are used extensively in different courses. 
+
+#### Marketing - MG401
+The course deals with two different parts of marketing; the first is qualitative, and the second is a more quantitative aspect. The two deal with different marketing strategies, techniques, and mathematical methods that are generally used by marketers.
+
+#### Project - MG405
+The project and operation courses are closely linked and have a lot of quantitative modeling and analysis. However, they do not involve any high-level mathematics, and the models are interesting to learn and apply. These models are very useful in making choices and even evaluating different scenarios.
+
+#### Operations - MG406
+I personally was able to apply a lot of different models learned in these two courses during my internships as well as other course projects in the institute. 
+
+#### Strategy - MG407
+One of the best courses in the entire section. The same is full of case studies and practical knowledge. I would advise taking it up only after you are done with the above 4 courses, which is in the 7th or the 8th semester. It kind of uses the concepts gained from the other management minor courses and teaches you how to apply them in a cross-disciplinary fashion. The course is set up in an environment very similar to B schools, and the evaluation is also conducted on similar lines. In my year, the same was taken up by the previous Dean ( Alumni and External Relations), IIM Ahmedabad, Prof. Atanu Ghosh and it was a great course to do during the final year.
+
+Also, it has a great advantage in case studies, as students are exposed to a practical way of solving cases rather than rote-learning models and bookish methods. It is kind of a great course to end your entire minors in management journey.
+
+#### Human Resources - MG402
+Deals with the HR part of organizations discussing different aspects of human resource management. The course is theory intensive, and have personally not seen people being too eager to take it up. Unless of course if you have an interest in the field specifically
+
+## Concluding Remarks
+Finally, I would like to say that the entire course has a lot to offer, but the best way to utilize the same is by showing the utmost interest in whatever is being taught. The professors are some of the best you can have and they are really experienced to help you build network as well as knowledge.
 
 
 
