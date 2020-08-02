@@ -3,7 +3,7 @@ layout: post
 title:  "ME415 - Computational Fluid Dynamics"
 categories: [dept electives]
 tags: [courses]
-image: assets/images/Course Reviews/Dept/ME415.png
+image: assets/images/Course Reviews/Dept/me415.png
 featured: false
 hidden: false
 ---
