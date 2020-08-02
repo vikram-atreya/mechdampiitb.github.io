@@ -3,7 +3,7 @@ layout: post
 title:  "ME226 - Mechanical Measurements"
 categories: [core courses, Second Year]
 tags: [courses]
-image: assets/images/12.jpg
+image: assets/images/me226.jpg
 featured: false
 hidden: false
 ---
