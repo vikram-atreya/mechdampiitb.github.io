@@ -26,6 +26,7 @@ Coming to the classroom atmosphere, most of the professors are really enthusiast
 But one should be carried away if things are too hunky-dory. Here’s a catch! Unlike most of the other minor courses, management minor courses can’t be later re-tagged as a department or an institute elective. So in case somebody is unable to finish the minor, (s)he might not be able to capitalize upon any good grades achieved in any of the courses. Also, usually the enrollment cap is kept very tight so the CPI cutoff is quite high (you’re safe with 8.5+) and waitlists almost have zero hope. At times, the course content seems too trivial but getting good grades becomes a tough task due to a fairly comprehensive evaluation methodology (predominantly application-based and less rote learning)  adopted by instructors. Based on the reviews of my batchmates, I would suggest anybody who isn’t serious about this minor to at least go for a course on Accounting and Finance . For people who are really serious about this minor, starting with Marketing Management can be a really good idea owing to really amazing professors and relatable course content. One final word of advice for people taking up this minor. There might be times when you may be tempted to think along the lines that most of the things being taught are fairly straight forward and it’s not a big deal. Just hold on for sometime and remind yourself that once you land up in a job or in a corporate setup, these seemingly basic things will prove to be a big deal.
 
 *Review by:* Dhvaneel Visaria
+
 ***
 
 ## Minors In Management
