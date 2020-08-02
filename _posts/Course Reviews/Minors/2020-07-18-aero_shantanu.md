@@ -9,7 +9,6 @@ hidden: false
 ---
 
 *Review by:* Shantanu Thada  
-*Minor Programme*: Aerospace Engineering
 
 ## Specific Courses Completed
 1. AE 153 – Introduction to Aerospace Engg. (Compulsory)

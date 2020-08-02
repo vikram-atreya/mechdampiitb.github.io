@@ -9,7 +9,6 @@ hidden: false
 ---
 
 *Review by:* Aniruddha Ranade  
-*Minor programme*: Electrical Engineering (EE)
 
 ## Courses Completed
 1. EE 221 - Digital Electronics
