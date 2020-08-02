@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
 
-*Review by:* Dhvaneel Visaria
+*Review by:* Dhvaneel Visaria and Anumay Ashish
 
 ## Why this minor?
 I think it would be good to begin this review, trying to answer an obvious question. Why should one pursue a minor in ‘Management’ in an ‘Engineering’ institute? There are different ways to look at it depending upon your short-term or long-term goals. In terms of  the long-term perspective, management skills are essential for any person - a student, a homemaker, a researcher, a professional or a leader. Therefore being aware of management basics and principles would be very helpful to deal with challenging situations and/or improving one’s effectiveness in performing a particular task. In a broader context, the growing importance of management education in some form for all professionals, especially engineers like us can’t be ignored. Of course these are instances of management in ‘practice’ but unfortunately that is not what you would be learning in the minor. It is then obvious to think, ‘Then why should I do a minor in management?!’ It is the precedence of theory before practice that comes into play. The management minor courses aim to provide introductory exposure to students regarding various facets of management like marketing, strategy, human-resource, operations, finance, etc. And I believe that this learning experience would be thoroughly complete only at the end of the required number of courses.  The profound impact lies in the integration of learning from all the different courses.
@@ -25,7 +25,8 @@ Coming to the classroom atmosphere, most of the professors are really enthusiast
 ## Caution!!
 But one should be carried away if things are too hunky-dory. Here’s a catch! Unlike most of the other minor courses, management minor courses can’t be later re-tagged as a department or an institute elective. So in case somebody is unable to finish the minor, (s)he might not be able to capitalize upon any good grades achieved in any of the courses. Also, usually the enrollment cap is kept very tight so the CPI cutoff is quite high (you’re safe with 8.5+) and waitlists almost have zero hope. At times, the course content seems too trivial but getting good grades becomes a tough task due to a fairly comprehensive evaluation methodology (predominantly application-based and less rote learning)  adopted by instructors. Based on the reviews of my batchmates, I would suggest anybody who isn’t serious about this minor to at least go for a course on Accounting and Finance . For people who are really serious about this minor, starting with Marketing Management can be a really good idea owing to really amazing professors and relatable course content. One final word of advice for people taking up this minor. There might be times when you may be tempted to think along the lines that most of the things being taught are fairly straight forward and it’s not a big deal. Just hold on for sometime and remind yourself that once you land up in a job or in a corporate setup, these seemingly basic things will prove to be a big deal.
 
-*Review by:* Anumay Ashish
+*Review by:* Dhvaneel Visaria
+***
 
 ## Minors In Management
 
@@ -70,5 +71,4 @@ Deals with the HR part of organizations discussing different aspects of human re
 ## Concluding Remarks
 Finally, I would like to say that the entire course has a lot to offer, but the best way to utilize the same is by showing the utmost interest in whatever is being taught. The professors are some of the best you can have and they are really experienced to help you build network as well as knowledge.
 
-
-
+*Review by:* Anumay Ashish
