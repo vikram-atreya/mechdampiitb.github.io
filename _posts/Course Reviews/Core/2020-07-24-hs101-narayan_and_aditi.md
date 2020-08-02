@@ -3,7 +3,7 @@ layout: post
 title:  "HS101 - Economics"
 categories: [core courses, Second Year]
 tags: [courses]
-image: assets/images/12.jpg
+image: assets/images/hs101.jpg
 featured: false
 hidden: false
 ---
