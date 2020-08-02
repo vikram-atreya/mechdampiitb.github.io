@@ -3,7 +3,7 @@ layout: post
 title:  "ME445 - Fluids and Combustion"
 categories: [dept electives]
 tags: [courses]
-image: assets/images/12.jpg
+image: assets/images/Course Reviews/Dept/me445.jpg
 featured: false
 hidden: false
 ---

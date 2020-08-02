@@ -3,7 +3,7 @@ layout: post
 title:  "ME781 - Engineering Data Mining and Applications"
 categories: [dept electives]
 tags: [courses]
-image: assets/images/12.jpg
+image: assets/images/Course Reviews/Dept/me781.png
 featured: false
 hidden: false
 ---

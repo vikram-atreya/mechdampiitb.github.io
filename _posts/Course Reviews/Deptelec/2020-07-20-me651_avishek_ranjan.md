@@ -3,7 +3,7 @@ layout: post
 title:  "ME651 - Fluid Dynamics"
 categories: [dept electives]
 tags: [courses]
-image: assets/images/12.jpg
+image: assets/images/Course Reviews/Dept/me651.jpg
 featured: false
 hidden: false
 ---

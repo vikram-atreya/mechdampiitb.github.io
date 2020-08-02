@@ -3,7 +3,7 @@ layout: post
 title:  "ME645 - Design, Fabrication and Characterisation"
 categories: [dept electives]
 tags: [courses]
-image: assets/images/12.jpg
+image: assets/images/Course Reviews/Dept/me645.jpg
 featured: false
 hidden: false
 ---
