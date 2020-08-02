@@ -4,7 +4,7 @@ title:  "Where are they now?"
 categories: [sessions, First Year, Second Year, Third Year]
 tags: [events]
 image: assets/images/Events/wherearetheynow.jpg
-featured: true
+featured: false
 hidden: false
 ---
 

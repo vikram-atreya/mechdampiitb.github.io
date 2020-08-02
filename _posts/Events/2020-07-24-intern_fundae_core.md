@@ -4,7 +4,7 @@ title:  "Intern Fundae - Core"
 categories: [sessions, Second Year, Third Year]
 tags: [events]
 image: assets/images/Events/intern.jpeg
-featured: true
+featured: false
 hidden: false
 ---
 
