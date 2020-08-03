@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ME445 - Fluids and Combustion"
+title:  "ME445 - Fuels and Combustion"
 categories: [dept electives]
 tags: [courses]
 image: assets/images/Course Reviews/Dept/me445.jpg
@@ -12,7 +12,7 @@ hidden: false
 Arindrajit Chowdhury and Neeraj Kumbhkarna
 
 #### Section
-Yes a similar course is offered parallel to this for the MTechs (I suppose it was ME747)
+Yes a similar course is offered parallel to this for the MTechs (ME760)
 
 #### Semester
 Spring'18
